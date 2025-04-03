@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+📫 How to reach me: kawatson@ucsd.edu
+😄 Pronouns: He/Him
+
 <!--
 **kalebwatson1/kalebwatson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
